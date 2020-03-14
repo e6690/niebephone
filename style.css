@@ -1,0 +1,28 @@
+.picture
+{
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0, 0, 0, 0.5)), url(bcg.jpeg)center/cover no-repeat fixed;
+
+}
+
+.photo
+{
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0, 0, 0, 0.5)), url(loup.jpg)center/cover no-repeat fixed;
+}
+
+.foot{
+    background-color: black;
+}
+.carousel-item
+    {
+        height: 500px;
+    } 
+    .carousel-item img
+    {
+        height: 500px;
+        position: absolute;
+        object-fit:cover;
+        top: 0;
+        left: 0;
+    }
+
+
